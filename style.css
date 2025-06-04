@@ -132,7 +132,7 @@ body {
     flex: 1;
     padding-right: 20px;
     min-width: 300px;
-    /* Evita que el contenido se estreche demasiado */
+     
 }
 
 .hero-content h1 {
@@ -161,7 +161,7 @@ body {
     flex: 1;
     text-align: center;
     min-width: 300px;
-    /* Evita que la imagen se estreche demasiado */
+    /* Evita que la imagen se estreche */
 }
 
 .hero-image img {
@@ -205,7 +205,7 @@ body {
 
 .featured-products .product-item:hover {
     transform: scale(1.05);
-    /* Sutil efecto de "zoom" al pasar el ratón */
+    /* Sutil efecto de "zoom" al pasar el ratón  por encima. Efecto para llamar la atención */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
     /* Sutil sombra al pasar el ratón */
 }
@@ -566,7 +566,7 @@ footer .container {
     position: relative; /* Para posicionar el desplegable */
 }
 
-.cart .dropbtn { /* El enlace que muestra "Carrito" */
+.cart .dropbtn { /* enlace "Carrito" */
     background-color: #f8f8f8; /* Mismo color que los otros */
     color: #333;
     padding: 10px 15px;
