@@ -49,7 +49,7 @@ body {
 /* Añadido para controlar el tamaño del logo */
 .logo-img {
     height: auto;
-    max-width: 150px; /* Ajusta este valor según necesites */
+    max-width: 150px; /* */
 }
 
 .search-bar {
