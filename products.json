@@ -1,0 +1,129 @@
+[
+  {
+    "id": "1",
+    "name": "Jabón líquido para ropa Ariel limpieza profunda en botella 800 cc.",
+    "price": 2500.00,
+    "image": "ARIEL 800.jpg"
+  },
+  
+  {
+    "id": "2",
+    "name": "Jabón líquido para ropa Skip concentrado bio encimas 500 cc.",
+    "price": 8000.00,
+    "image": "SKIP CONCENTRADO.jpg"
+  },
+  
+
+  {
+    "id": "4",
+    "name": "Jabón líquido Ariel diluible en botella 500 ml",
+    "price": 10450.00,
+    "image": "ARIEL CONCENTRADO DESCRIPCION.WEBP"
+  },
+  
+
+  {
+    "id": "7",
+    "name": "Jabón líquido concentrado para diluir Ala Matic máxima blancura 500 ml",
+    "price": 7500.00,
+    "image": "ALA CONCENTRADO.JPG"
+  },
+  
+
+  {
+    "id": "3",
+    "name": "Suavizante concentrado Comfort cuid esencial dp 450 cc.",
+    "price": 4950.00,
+    "image": "COMFORT DP FRENTE.jpg"
+  },
+
+
+
+  {
+    "id": "8",
+    "name": "Jabón líquido para ropa Woolite bebé en máquina repuesto 450 ml.",
+    "price": 3100.00,
+    "image": "WOOLITE BEBE INFO X 450.webp"
+  },
+
+
+  
+
+
+  {
+    "id": "6",
+    "name": "Suavizante concentrado Comfort fiber protect en botella 500 cc.",
+    "price": 6000.00,
+    "image": "COMFORT ROSA.jpg"
+  },
+  
+
+  {
+    "id": "14",
+    "name": "Detergente ropa fina Woolite para maquina dp 900 cc.",
+    "price": 5800.00,
+    "image": "WOOLITE BLUE.jpg"
+  },
+
+  
+  {
+    "id": "9",
+    "name": "Detergente Magistral ultra limón en botella 500 cc.",
+    "price": 3300.00,
+    "image": "MAGISTRAL ORIGINAL.jpg"
+  },
+
+
+  {
+    "id": "10",
+    "name": "Detergente Magistral ultra limón platinum en botella 500 cc.",
+    "price": 3300.00,
+    "image": "MAGISTRAL PLATINUM 500.JPG"
+  },
+
+
+  {
+    "id": "11",
+    "name": "Sal para lavavajillas Finish doypack 1 kg.",
+    "price": 6000.00,
+    "image": "FINISH.jpg"
+  },
+
+ {
+    "id": "16",
+    "name": "Detergente para lavavajillas Finish polvo botella 1 kg..",
+    "price": 10000.00,
+    "image": "FINISH ADV.jpg"
+  },
+
+
+  {
+    "id": "12",
+    "name": "Desinfectante en aerosol Cif lavanda 360 cc.",
+    "price": 1700.00,
+    "image": "CIF LAVANDA AERO.jpg"
+  },
+
+ {
+    "id": "12",
+    "name": "Canasta inodoro poder total Vim oceano 100 g.",
+    "price": 4700.00,
+    "image": "VIM CAN.jpg"
+  },
+
+  {
+    "id": "17",
+    "name": "Gel limpiador desinfectante para inodoros Harpic blanco y brillante 500 ml.",
+    "price": 4000.00,
+    "image": "HARPIC BLACK.jpg"
+  },
+
+
+ {
+    "id": "5",
+    "name": "Limpiador cremoso Cif bioactive 500 cc",
+    "price": 3200.00,
+    "image": "Cif Crema x 750.jpg"
+  }
+
+]

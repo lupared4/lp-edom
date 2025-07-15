@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eDomArgentina</title>
+    <link rel="stylesheet" href="style2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="eDom logo.png" type="image/png" sizes="32x32">
+
+    <meta name="description" content="eDomArgentina - Tu tienda online de productos para el hogar, limpieza y bebidas. Envío gratis en pedidos a partir de $60.000.">
+    <meta name="keywords" content="e-commerce, tienda online, productos de limpieza, bebidas, hogar, Argentina, Ariel, Skip, Comfort">
+    <meta name="author" content="eDomArgentina">
+</head>
+
+<body>
+    <header>
+        <div class="top-bar">
+            <div class="container">
+                <p>Envío gratis en pedidos estándar a partir de $60.000</p>
+            </div>
+        </div>
+        <div class="main-header">
+            <div class="container">
+                <div class="logo">
+                    <img src="eDom logo.png" alt="Logo de eDomArgentina">
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="#">Inicio</a></li>
+                        <li><a href="#featured-products-section">Productos</a></li>
+                        <li><a href="#reviews-section">Opiniones</a></li>
+                        <li><a href="#contact-section">Contacto</a></li>
+                        <li class="user-actions">
+                            <div class="dropdown">
+                                <a href="#" class="dropbtn">Mi Cuenta <i class="fas fa-user"></i></a>
+                                <div class="dropdown-content">
+                                    <a href="#" id="login-link">Iniciar Sesión</a>
+                                    </div>
+                            </div>
+                            <div class="cart">
+                                <a href="#" class="dropbtn cart-button">
+                                    Carrito <span id="cart-item-count">0</span>
+                                </a>
+                                <div class="dropdown-content cart-dropdown" id="cart-dropdown">
+                                    <div id="cart-items">
+                                        </div>
+                                    <p id="empty-cart-message" class="empty-cart-message">El carrito está vacío.</p>
+                                    <p class="cart-total">Total: $<span id="cart-total">0.00</span></p>
+                                    <button class="checkout-button">Finalizar Compra</button>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>eDomArgentina, Tu Tienda Online</h1>
+                <p>La comodidad de comprar online.</p>
+        
+                <a href="#featured-products-section" class="btn">Explorar Productos</a>
+            </div>
+        </section>
+
+        <section class="featured-products" id="featured-products-section">
+            <div class="container">
+                <h2>Nuestros Productos</h2>
+                <div class="product-grid" id="product-list">
+                    </div>
+            </div>
+        </section>
+
+        <section class="how-it-works">
+            <div class="container">
+                <h2>¿Cómo funciona?</h2>
+                <br>
+                <div class="steps-grid">
+                    <div class="step-item">
+                        <img src="CARRITO ECOM.jpg" alt="Icono de carrito de compras">
+                        <h3>1. Elige tus productos</h3>
+                        <p>Selecciona los artículos que necesitas para tu hogar.</p>
+                    </div>
+                    <div class="step-item">
+                        <img src="ABONAR.jpg" alt="ABONAR">
+                        <h3>2. Abona la compra</h3>
+                        <p>Podes elegir como abonarlo.</p>
+                    </div>
+                    <div class="step-item">
+                        <img src="LOGISTICA.jpg" alt="Icono de camión de entrega">
+                        <h3>3. Recíbelos en casa</h3>
+                        <p>Nos encargamos de que lleguen directamente a tu puerta.</p>
+                    </div>
+                    <div class="step-item">
+                        <img src="TIEMPO.jpg" alt="Icono de reloj y calendario">
+                        <h3>4. Disfruta tu tiempo</h3>
+                        <p>Ahorra tiempo y energía para lo que realmente importa.</p>
+                    </div>
+                    <div class="step-item">
+                        <img src="FAMILIA.jpg" alt="FAMILIA">
+                        <h3> Familia </h3>
+                        <p>Disfruta de tú familia.</p>
+                    </div>
+                    <div class="step-item">
+                        <img src="RUN.jpg" alt="RUNNING">
+                        <h3> Aire libre</h3>
+                        <p>Aprocha a entregar o ir al gym.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="reviews" id="reviews-section">
+            <div class="container">
+                <h2>Lo que dicen nuestros clientes</h2>
+                <div class="reviews-grid">
+                    <div class="review-item">
+                        <p>"Excelente servicio, rapidez y productos de calidad. ¡Mi vida es mucho más fácil ahora!"</p>
+                        <h4>- María G.</h4>
+                    </div>
+                    <div class="review-item">
+                        <p>"Siempre encuentro todo lo que necesito. La entrega es súper puntual. ¡Recomendado 100%!"</p>
+                        <h4>- Juan P.</h4>
+                    </div>
+                    <div class="review-item">
+                        <p>"Adiós a las filas del supermercado. Con eDomArgentina, compro desde mi sillón. ¡Una maravilla!"</p>
+                        <h4>- Laura F.</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact" id="contact-section">
+            <div class="container">
+                <h2>Contáctanos</h2>
+                <p>¿Tienes alguna pregunta o comentario? ¡Estamos aquí para ayudarte!</p>
+                <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+                    <div class="form-group">
+                        <label for="name">Nombre:</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Mensaje:</label>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn">Enviar Mensaje</button>
+                </form>
+            </div>
+        </section>
+
+        <div id="login-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <h2>Acceso a Mi Cuenta</h2>
+
+                <div class="tabs">
+                    <button class="tab-button active" data-tab="login">Iniciar Sesión</button>
+                    <button class="tab-button" data-tab="register">Registrarse</button>
+                </div>
+
+                <form id="login-form" class="form-active">
+                    <div class="form-group">
+                        <label for="username">Usuario:</label>
+                        <input type="text" id="username" name="username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Contraseña:</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <button type="submit" class="btn">Iniciar Sesión</button>
+                </form>
+
+                <form id="register-form" style="display:none;">
+                    <div class="form-group">
+                        <label for="register-username">Usuario:</label>
+                        <input type="text" id="register-username" name="register-username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="register-email">Email:</label>
+                        <input type="email" id="register-email" name="register-email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="register-password">Contraseña:</label>
+                        <input type="password" id="register-password" name="register-password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="register-confirm-password">Confirmar Contraseña:</label>
+                        <input type="password" id="register-confirm-password" name="register-confirm-password" required>
+                    </div>
+                    <button type="submit" class="btn" id="register-button-submit">Registrarse</button>
+                </form>
+            </div>
+        </div>
+
+        <section class="info-banners">
+            <div class="container banners-grid">
+                <div class="banner">
+                    <img src="FREE SHIPING.jpg" alt="FREE SHIPPING">
+                    <h3>Envío sin cargo</h3>
+                    <p>En pedidos a partir de $60.000 y puntos de retiro ¡Elegí el tuyo!</p>
+                </div>
+                <div class="banner">
+                    <a href="https://www.instagram.com/e.domargentina/" target="_blank" aria-label="Síguenos en Instagram">
+                        <img src="insta png.png" alt="Logo de Instagram">
+                    </a>
+                    <a href="https://web.telegram.org/" target="_blank" aria-label="Síguenos en Telegram">
+                        <img src="telegram-logo-8.png" alt="Logo de Telegram">
+                    </a>
+                    <h3>¡Seguinos!!</h3>
+                    <p>Podés seguirnos y enterarte todas las promociones y novedades.</p>
+                </div>
+                <div class="banner">
+                    <img src="ATENCION TEL.jpg" alt="Atencion telefónica">
+                    <h3>Consultas o dudas</h3>
+                    <p>Atención de 8hs a 18hs!</p>
+                    <p>0800-4444-4444</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Mi Tienda Online</p>
+            <p>Todos los derechos reservados.</p>
+            <p>Diseñado y desarrollado por Luciano D. Pared </p>
+        </div>
+    </footer>
+
+    <a href="#" class="help-button" role="button" aria-label="Botón de ayuda flotante">
+        <img src="VIRTUAL ASIST.jpg" alt="Icono de ayuda">
+    </a>
+
+    <script src="script.js"></script>
+    <script src="https://kit.fontawesome.com/your-font-awesome-kit-id.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
