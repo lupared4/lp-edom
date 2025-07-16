@@ -32,3 +32,42 @@ Este proyecto representa el desarrollo de un sitio web de e-commerce dinámico e
 * **Formspree** (para el formulario de contacto)
 
 ## Estructura del Proyecto
+
+eDomArgentina/
+├── EntregafinalLDP.html
+├── script.js
+├── style2.css
+├── products.json
+├── favicon.ico
+├── eDom logo.png
+├── hero-bg.jpg
+├── insta png.png
+├── telegram-logo-8.png
+├── CARRITO ECOM.jpg
+├── ABONAR.jpg
+├── LOGISTICA.jpg
+├── TIEMPO.jpg
+├── FAMILIA.jpg
+├── RUN.jpg
+├── FREE SHIPING.jpg
+├── ATENCION TEL.jpg
+├── VIRTUAL ASIST.jpg
+└── /* Carpeta con imágenes de productos */
+├── ARIEL 800.jpg
+├── SKIP CONCENTRADO.jpg
+├── ARIEL CONCENTRADO DESCRIPCION.webp
+├── ALA CONCENTRADO.JPG
+├── COMFORT DP FRENTE.jpg
+├── WOOLITE BEBE INFO X 450.webp
+├── COMFORT ROSA.jpg
+├── WOOLITE BLUE.jpg
+├── MAGISTRAL ORIGINAL.jpg
+├── MAGISTRAL PLATINUM 500.JPG
+├── FINISH.jpg
+├── FINISH ADV.jpg
+├── CIF LAVANDA AERO.jpg
+├── VIM CAN.jpg
+├── HARPIC BLACK.jpg
+└── Cif Crema x 750.jpg
+├── README.md
+
